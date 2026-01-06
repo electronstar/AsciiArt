@@ -1,5 +1,3 @@
-<img width="712" height="288" alt="image" src="https://github.com/user-attachments/assets/8bc7d18c-7c8f-4a55-9f91-4d7b41c372f4" />
-
                     o                                  o'
                   o$$'                               o$$'
                 '$o$$                               $o$$
